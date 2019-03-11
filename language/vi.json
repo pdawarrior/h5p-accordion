@@ -11,7 +11,7 @@
             "label":"Title"
           },
           {
-            "label":"Content type",
+            "label":"Loại nội dung",
             "entity":"content"
           }
         ]
